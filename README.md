@@ -203,7 +203,7 @@ A Pearson correlation heatmap was generated to investigate the relationships bet
 This analysis helped identify the variables most strongly associated with house prices and provided useful insights for feature selection.
 
 <p align="center">
-    <img src="images/heatmap.png" width="700">
+    <img src="images/heatmap_.png" width="700">
 </p>
 
 ---
